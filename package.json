@@ -1,0 +1,19 @@
+{
+  "name": "add",
+  "version": "1.0.0",
+  "description": "Write a function that returns the sum of two numbers.",
+  "main": "add.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/add.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/add/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/add#readme"
+}
