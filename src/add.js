@@ -9,5 +9,5 @@ module.exports = solution;
 // package.json: "scripts": { "test": "jest" }
 // npm test add
 
-// alternatives
+// alternative solution
 // const solution = (param1, param2) => param1 + param2;
